@@ -1,2 +1,8 @@
-# Esx-Menu-Default
-New esx menu default skin
+<h1>Description</h1>
+        
+<font>Simple new ESX Menu Default Reesking, simple Css modification.</font>
+
+<h1>How to install</h1>
+
+Simple drag Folder to your [esx] folder and type "ensure esx_menu_default" in your scripts or server config.
+
